@@ -12,12 +12,12 @@ Este es un mensaje editado completamente desde Github
 
 ### Hola mundo
 
-#h1
-##h2
-###h3
-####h4
-#####h5
-######h6
+# h1
+## h2
+### h3
+#### h4
+##### h5
+###### h6
 
 * A
 * B
